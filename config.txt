@@ -1,0 +1,7 @@
+query = "музыка"
+max_results = 10
+min_subs = 70000
+max_subs = 150000
+min_views = 100
+max_views = 10000000
+region_hint = ru
