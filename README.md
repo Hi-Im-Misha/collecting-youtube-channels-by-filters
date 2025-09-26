@@ -17,8 +17,7 @@
 
 1. Клонируй репозиторий:
     ```bash
-   git clone https://github.com/username/youtube-channel-finder.git
-   cd youtube-channel-finder
+   git clone https://github.com/Hi-Im-Misha/collecting-youtube-channels-by-filters.git
 2. Установи зависимости:
     ```bash
     pip install -r requirements.txt
